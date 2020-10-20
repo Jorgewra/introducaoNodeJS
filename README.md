@@ -13,7 +13,20 @@ Guia de estudo sobre node JS
   - ORM Sequelize [Aqui](https://sequelize.org/)
   - Sequelize-cli [Aqui](https://www.npmjs.com/package/sequelize-cli)
   - Padronizador de codigo [Aqui](https://eslint.org/)
-  
+## Verbos Http
+   O protocolo HTTP define um conjunto de métodos de requisição responsáveis por indicar a ação a ser executada para um dado recurso.
+   Post, Get, Put, Delete, Etc.. [Aqui](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Methods) 
+## Retorno Http 
+   Os códigos de status das respostas HTTP indicam se uma requisição HTTP foi corretamente concluída. As respostas são agrupadas em cinco classes:
+
+    Respostas de informação (100-199),
+    Respostas de sucesso (200-299),
+    Redirecionamentos (300-399)
+    Erros do cliente (400-499)
+    Erros do servidor (500-599).
+
+   [Aquui](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
+   
 ## Strutura de pasta
 ```bash
 backend
