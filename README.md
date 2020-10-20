@@ -25,7 +25,7 @@ Guia de estudo sobre node JS
     Erros do cliente (400-499)
     Erros do servidor (500-599).
 
-   [Aquui](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
+   [Aqui](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
    
 ## Strutura de pasta
 ```bash
