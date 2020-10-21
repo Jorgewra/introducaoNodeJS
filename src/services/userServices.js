@@ -1,5 +1,5 @@
 var { User } = require("../../models/index");
-exports =  {
+module.exports =  {
     save : (req, res) =>{
         try {
             User.create(req.body).then(res =>{
