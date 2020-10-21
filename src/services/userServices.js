@@ -2,10 +2,11 @@ var { User } = require("../../models/index");
 module.exports =  {
     save : (req, res) =>{
         try {
-            User.create(req.body).then(res =>{
-                res.json(res)
+            User.create(req.body).then(respDB =>{
+                res.json(respDB)
             }).catch(error=>{
-                res.status(400).send(error)
+                console.log(error)
+                res.status(400).json(error)
             });
     
         } catch (error) {

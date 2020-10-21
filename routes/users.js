@@ -5,7 +5,7 @@ var {save} = require("../src/services/userServices")
 router.get('/', function(req, res, next) {
   res.status(404).send("OK Mom")
 });
-router.post('/save', function(req, res, next) {
+router.post('/', function(req, res, next) {
   save(req, res);
 });
 

@@ -2,7 +2,9 @@
 Guia de estudo sobre node JS
 
 ```Node (ou formalmente Node.js) é um ambiente em tempo de execução open-source (código aberto) e multiplataforma que permite aos desenvolvedores criarem todo tipo de aplicativos e ferramentas do lado servidor (backend) em JavaScript.  Node é usado fora do contexto de um navegador (ou seja executado diretamente no computador ou no servidor). Como tal, o ambiente omite APIs JavaScript específicas do navegador e adiciona suporte para APIs de sistema operacional mais tradicionais, incluindo bibliotecas de sistemas HTTP e arquivos.```
-
+# Comandos do projeto
+1. npm start  - Start no projeto
+2. npm 
 (fonte : https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Express_Nodejs/Introdu%C3%A7%C3%A3o)
 ## Requisito
    - Básico de JavaScript  [Aqui](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
